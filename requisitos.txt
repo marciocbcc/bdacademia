@@ -3,6 +3,7 @@ Tem que ter uma tabela para Aluno,tabela para professor,
 Aula: exemplo dança, luta, speeling
 lista de equipamentos
 uma tabela para mensalidade
+tabela pagamento
 avaliação física do aluno: guardar os dados de saúde do aluno
 avaliação nutricional do aluno
 As avaliações podem ficar em tabelas porque guardaram o historico do aluno
