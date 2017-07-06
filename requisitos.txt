@@ -5,3 +5,4 @@ lista de equipamentos
 uma tabela para mensalidade
 avaliação física do aluno: guardar os dados de saúde do aluno
 avaliação nutricional do aluno
+As avaliações podem ficar em tabelas porque guardaram o historico do aluno
