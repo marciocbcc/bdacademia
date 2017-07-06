@@ -1,5 +1,5 @@
 Requisitos:
-Tem que ter lista de Aluno,lista de professores, 
+Tem que ter uma tabela para Aluno,tabela para professor, 
 Aula: exemplo dança, luta, speeling
 lista de equipamentos
 uma tabela para mensalidade
